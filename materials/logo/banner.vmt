@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "logo/banner"
+	$decal 1
+    $decalscale 0.50
+	"$translucent" 1
+}
