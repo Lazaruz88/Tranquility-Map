@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
+=======
 *.vmx
 *.prt
 *.log
 *.backup
+>>>>>>> parent of 19e7f48... added bsp
+*.bsp
